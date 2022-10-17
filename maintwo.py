@@ -19,7 +19,7 @@ async def on_ready():
 
 
 @bot.command()
-async def startitoff(ctx):
+async def start(ctx):
     print(" ")
     guild = ctx.guild
     print(f"{Fore.WHITE}[{Fore.CYAN}GUILD{Fore.WHITE}]{Fore.CYAN} Got target guild")
