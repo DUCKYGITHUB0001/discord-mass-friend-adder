@@ -12,3 +12,6 @@ you need
 
 - pip install discord.py-self ( NOT discord.py , uninstall discord.py if you have it already)
 - pip install colorama
+
+
+# gonna be making changes to this soon it'll be 100x better + scrape friends from other places
