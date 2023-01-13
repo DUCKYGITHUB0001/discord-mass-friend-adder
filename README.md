@@ -1,3 +1,11 @@
+
+# NOTE
+
+- This is no longer maintaned, and i will not be working on it.
+Discord may and will terminate your discord account if you use this script.
+
+do not spam the API.
+
 # discord-mass-friend-adder
 
 usage: 
