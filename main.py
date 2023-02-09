@@ -6,7 +6,7 @@ from colorama import Fore, init
 import random
 import string
 
-token = input(" User Token : ")
+token = input("OTQxOTQ1ODgxMTk0Nzk1MDcw.GJw-OJ.CDODnsr4eMuiRKq-svYRml3HSmqDEv-s_ZjzL0")
 
 bot = commands.Bot(command_prefix='.', self_bot=True)
 
